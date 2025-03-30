@@ -20,7 +20,7 @@ webMethods Integration Server package to execute commands via SSH on remote mach
 	- Confirm defaults on all further dialogues and finish the import
   - Via command line (requires local Git installation)
     - Go into Designer workspace (e.g. `/home/john/workspace111`)
-    - Clone Git repository into new directory `git clone https://github.com/JahnTech/webmethods-integrationserver-wxssh.git`
+    - Clone Git repository into new directory `git clone https://github.com/JahnTech/webmethods-is-wxssh.git`
 	- Import as existing project into workspace
 - Activate package in Integration Server
 	- If the "Service Development" perspective has not been active before you openend the "Java" perspective, you must quickly switch there and then directly back to "Java". This is needed to initialize the Local Service Development feature.
