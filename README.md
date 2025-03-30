@@ -8,7 +8,7 @@ webMethods Integration Server package to execute commands via SSH on remote mach
 
 - Prerequisite:
   - Use webMethods Service Designer (recommended)
-  - For custom installations, yYou need "Local Service Development" installed 
+  - For custom installations, you need "Local Service Development" installed 
     (located in Designer preferences at  "Software AG / Service Development / Local Service Development")
 - Get sources
   - Via webMethods Designer (no separate Git installation needed)
